@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    width: 400px;
     background: #111827;
     margin: 80px 40px;
 }
@@ -57,7 +58,7 @@ margin: 0;
 #resultDiv{
     margin-top: 20px;
    display: flex;
-   justify-content: space-between;
+   justify-content: space-around;
    background: #111827;
  
 }
